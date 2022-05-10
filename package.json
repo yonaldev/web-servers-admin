@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/yonaldev/web-servers-admin#readme",
   "devDependencies": {
+    "mongoose": "^6.3.2",
+    "nodemailer": "^6.7.5",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
